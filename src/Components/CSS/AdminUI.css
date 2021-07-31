@@ -1,0 +1,21 @@
+.main{
+    margin: 30px;
+}
+.main > form> input{
+    width: 100%;
+    padding: 9px;
+    border: 1px solid rgba(185, 185, 185, 0.404);
+}
+
+.main > form> input:focus{
+    outline: none;
+}
+tr{
+    border-bottom: 1px solid rgba(233, 233, 233, 0.589);
+}
+th{
+    padding:13px 0 !important;
+}
+td{
+    padding:13px 0 !important;
+}
